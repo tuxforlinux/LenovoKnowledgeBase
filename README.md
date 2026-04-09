@@ -1,6 +1,6 @@
 # Lenovo KnowledgeBase
 
-Internal one-pager for the Lenovo IN CEC Training Team.
+Internal one-pager for the Lenovo IN CEC.
 
 ## Project Structure
 
